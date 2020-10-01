@@ -1,2 +1,2 @@
 # vimrc
-My vim config (python)
+My vim config 
